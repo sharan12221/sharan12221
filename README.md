@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"></img>
 <img src="https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=for-the-badge&logo=Hyperledger&logoColor=white" alt="Hyperledger Fabric"></img>
 <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="Solidity"></img>
+<img src="https://img.shields.io/badge/Ethers.js-757575?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js"></img>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></img>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></img>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"></img>
