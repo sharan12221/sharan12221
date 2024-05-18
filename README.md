@@ -27,5 +27,5 @@
 </div>
 
 <h3 align="left">Stats:</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=whydecode&show_icons=true&theme=dark&locale=en&layout=compact" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=whydecode&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharan12221&show_icons=true&theme=dark&locale=en&layout=compact" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharan12221&theme=dark" />
