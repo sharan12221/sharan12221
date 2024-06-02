@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-    <a href="https://www.linkedin.com/in/sharanappa-wakade/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></img></a>
+    <a href="www.linkedin.com/in/sharanappa-wakade-76238a256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></img></a>
     <a href="mailto:sharanwakade@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></img></a>
     <a href="https://www.instagram.com/sharan_wakde_45/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></img></a>
 </div>
