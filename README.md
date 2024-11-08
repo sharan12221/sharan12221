@@ -1,7 +1,8 @@
 <h1 align="center"> 👋 Hi, I'm Sharanappa Wakade</h1>
 <h3 align="center">Blockchain Developer</h3>
 
-- 📫 How to reach me **sharanwakade@gmail.com** 
+- 📫 How to reach me **sharanwakade@gmail.com**
+- 📫 linktr **https://linktr.ee/sharanappa_wakade**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
